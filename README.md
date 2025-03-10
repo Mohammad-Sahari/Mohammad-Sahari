@@ -8,10 +8,6 @@ This journey of mine might be arduous tho it's enjoyable
 
 ---
 
-## Connect with Me:
-[![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
 
 ## Languages and Tools:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
